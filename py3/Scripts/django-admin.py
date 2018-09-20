@@ -1,4 +1,4 @@
-#!c:\users\ander\documents\django-agenda_de_eventos\py3\scripts\python.exe
+#!C:\Users\ander\Documents\agenda-master\py3\Scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
